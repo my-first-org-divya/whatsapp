@@ -1,0 +1,10 @@
+fgit add
+git push
+git commit -m"msg"
+git clone
+git branch
+git branch dev
+git checkout dev
+git log
+git show
+git show --pretty="" --name-only commitid
