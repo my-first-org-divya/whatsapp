@@ -1,0 +1,11 @@
+git push wp :dev
+git push wp --all
+git push wp dev master uat
+git log --graph --decorate
+git branch -d dev
+git branch dev
+git checkout -b dev
+git branch 
+
+
+
