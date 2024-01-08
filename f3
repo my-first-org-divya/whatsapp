@@ -1,0 +1,13 @@
+t branch -m rename
+git branch -d dev
+git branch uat
+git checkout -b dev
+git merge dev
+git diff dev master
+git diff uat
+git revert commitid
+git reset 
+git reset fn
+git clean -n
+git clean -f
+
