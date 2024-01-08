@@ -5,3 +5,6 @@ git push wp --tags
 git tag -d tagname
 git stash
 git cherry-pich
+git stasg apply stash@{0}
+git stash drop stash@{0}
+git stash pop stash @{0}
