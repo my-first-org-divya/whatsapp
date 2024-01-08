@@ -1,9 +1,2 @@
 Git commands are very important
-git clean -n
-git clean -f
-git reset
-git reset fn
-git commit -a -m "msg"
-git revert commitid
-git push wp master -f
 
