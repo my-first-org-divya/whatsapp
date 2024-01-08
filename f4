@@ -3,3 +3,5 @@ git tag tagname
 git push wp tag tagname
 git push wp --tags
 git tag -d tagname
+git stash
+git cherry-pich
